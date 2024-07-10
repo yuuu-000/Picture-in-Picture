@@ -26,6 +26,6 @@
     <rect x="15" y="18" width="17" height="12" rx="3" ry="3" class="color" mask="url(#mask2)"/>
     <!-- 矢印 -->
     <rect x="6" y="14.5" width="8" height="2" class="color"/> 
-    <rect x="12" y="8.5" width="2" height="7.5" class="color"/>
+    <rect x="12" y="8.5" width="2" height="8" class="color"/>
     <rect x="2" y="10" width="11" height="1.8" class="color" transform="rotate(45 8 12)"/>
 </svg>
